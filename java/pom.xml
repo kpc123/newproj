@@ -21,9 +21,9 @@
   <inceptionYear>2012</inceptionYear>
 
   <scm>
-    <url>https://github.com/SquareSquash/java</url>
-    <connection>scm:git:git://github.com/SquareSquash/java.git</connection>
-    <developerConnection>scg:git:git@github.com/SquareSquash/java.git</developerConnection>
+    <url>https://github.com/newproj/java</url>
+    <connection>scm:git:git://github.com/kpc123/newproj.git</connection>
+    <developerConnection>scg:git:git@github.com/kpc123/newproj.git</developerConnection>
   </scm>
 
   <organization>
